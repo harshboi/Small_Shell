@@ -6,7 +6,7 @@ The general syntax of the command line is:
 command [arg1 arg2 ...] [< input_file] [> output_file] [&]
 ```
 
-Here is a list of examples for commands you can run
+Here is a list of examples for commands and their example outputs you can run
 
 ```
 $ smallsh
